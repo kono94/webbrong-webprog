@@ -1,0 +1,3 @@
+--gamemode=BREAKOUT --spring.application.name=webbrong-breakout --server.port=8088
+
+--gamemode=PONG --spring.application.name=webbrong-pong --server.port=8087

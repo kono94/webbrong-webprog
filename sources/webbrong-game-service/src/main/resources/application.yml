@@ -1,0 +1,18 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+server:
+  port: 8081
+
+spring:
+  application:
+    name: webbrong-pong
+
+gamemode: pong
+
+api:
+  username: test
+  password: test
+  appName: webbrong-orchestrator
